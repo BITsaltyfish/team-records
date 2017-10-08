@@ -17,7 +17,7 @@
 
 ## 训练实录
 
-#### 2016-2017 ACM-ICPC, Egyptian Collegiate Programming Contest (ECPC 16)
+### 2016-2017 ACM-ICPC, Egyptian Collegiate Programming Contest (ECPC 16)
 
 
 **时间:** 2017年8月26日
@@ -28,7 +28,7 @@
 
 **问题：**
 
-#### 2014-2015 ACM-ICPC Southwestern Europe Regional Contest (SWERC 14)
+### 2014-2015 ACM-ICPC Southwestern Europe Regional Contest (SWERC 14)
 
 **时间：** 2017年9月2日
 
@@ -38,7 +38,7 @@
 
 **问题：**
 
-#### 2015-2016 ACM-ICPC Southwestern Europe Regional Contest (SWERC 15)
+### 2015-2016 ACM-ICPC Southwestern Europe Regional Contest (SWERC 15)
 
 **时间：** 2017年10月1日
 
@@ -48,7 +48,7 @@
 
 **问题：**
 
-#### ACM International Collegiate Programming Contest, Egyptian Collegiate Programming Contest (ECPC 2015)
+### ACM International Collegiate Programming Contest, Egyptian Collegiate Programming Contest (ECPC 2015)
 
 **时间：** 2017年10月2日
 
@@ -58,7 +58,7 @@
 
 **问题：**
 
-#### 2015 ACM Syrian Collegiate Programming Contest
+### 2015 ACM Syrian Collegiate Programming Contest
 
 **时间：** 2017年10月3日
 
@@ -68,7 +68,7 @@
 
 **问题：**
 
-#### 2016, Samara University ACM ICPC Quarterfinal Qualification Contest
+### 2016, Samara University ACM ICPC Quarterfinal Qualification Contest
 
 **时间：** 2017年10月3日
 
@@ -78,7 +78,7 @@
 
 **问题：**
 
-#### 2015-2016 Northwestern European Regional Contest (NWERC 2015)
+### 2015-2016 Northwestern European Regional Contest (NWERC 2015)
 
 **时间：** 2017年10月5日
 
@@ -88,7 +88,7 @@
 
 **问题：**
 
-#### 2016-2017 ACM-ICPC Southwestern European Regional Programming Contest (SWERC 2016)
+### 2016-2017 ACM-ICPC Southwestern European Regional Programming Contest (SWERC 2016)
 
 **时间：** 2017年10月6日
 
@@ -98,7 +98,7 @@
 
 **问题：**
 
-#### 2016-2017 ACM-ICPC CHINA-Final
+### 2016-2017 ACM-ICPC CHINA-Final
 
 **时间：** 2017年10月7日
 
@@ -108,7 +108,7 @@
 
 **问题：**
 
-#### 2016-2017 ACM-ICPC Northwestern European Regional Programming Contest (NWERC 2016)
+### 2016-2017 ACM-ICPC Northwestern European Regional Programming Contest (NWERC 2016)
 
 **时间：** 2017年10月8日
 
