@@ -21,7 +21,7 @@
 ### 2016-2017 ACM-ICPC, Egyptian Collegiate Programming Contest (ECPC 16)
 
 
-+ **时间:** 2017年8月26日
++ **时间：** 2017年8月26日
 
 + **题数：** 10/11
 
