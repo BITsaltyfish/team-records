@@ -2,7 +2,7 @@
 
 > 这里是**北湖咸鱼**的训练实录
 >
-> 三条咸鱼：`StrawBerry`、`miamiao`、`zhber`
+> 三条咸鱼：`strawberry`、`miamiao`、`zhber`
 
 ## 现场赛记录
 
@@ -12,11 +12,16 @@
 
 ### StrawBerry
 
++ 熟悉计算几何，码力有点差阿
+
 ### miamiao
 
 ### zhber
 
 ## 战术研究
+
++ 读新题优先度高于一切
++ 交题需要经过队友核查，切忌上头
 
 ## 训练实录
 
@@ -29,6 +34,8 @@
 + **排名：** 78
 
 + **问题：**
+  + 读题是硬伤阿，需要提高英语水平
+  + 计算几何写不起来
 
 ### [2016-2017 ACM-ICPC CHINA-Final](http://codeforces.com/gym/101194)
 
