@@ -41,15 +41,15 @@
 + **问题：**
     + 读题是硬伤阿，需要提高**英语姿势**（尤其是@sb） 
     + 计算几何写不起来
-    + 没有做到所有题通读一遍
+    + 没有做到所有题通读一遍
 + **补题：**
     + A. Arranging Hat - 大数dp
     + B. British Menu - 强连通分量+dp
     + I. Iron and Coal - 枚举分叉点+bfs
     + J. Jupiter Orbiter - 瞎搞
     + K. Kiwi Trees - 计算几何
-    + D. Driving in Optimistan - 大坑
-    + G. Gotta Nudge 'Em All - 大大坑
+    + D. Driving in Optimistan - 赛时没读，大坑
+    + G. Gotta Nudge 'Em All - 赛时没读，大坑
 
 ### [2016-2017 ACM-ICPC CHINA-Final](http://codeforces.com/gym/101194)
 
@@ -60,7 +60,7 @@
 + **排名：** 103
 
 + **问题：**
-    + F题后缀自动机卡太久了，日常爆炸，字符串选手(@miamiao)要提高板子的熟练度
+    + F题后缀数组卡太久了，日常爆炸，字符串选手(@miamiao)要提高板子的熟练度
     + E题早猜到了是高精度，奈何`Java`不熟，调了很久
     + 没有做到所有题通读一遍
     
