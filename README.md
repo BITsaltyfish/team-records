@@ -41,6 +41,15 @@
 + **问题：**
     + 读题是硬伤阿，需要提高**英语姿势**（尤其是@sb） 
     + 计算几何写不起来
+    + 没有做到所有题通读一遍
++ **补题：**
+    + A. Arranging Hat - 大数dp
+    + B. British Menu - 强连通分量+dp
+    + I. Iron and Coal - 枚举分叉点+bfs
+    + J. Jupiter Orbiter - 瞎搞
+    + K. Kiwi Trees - 计算几何
+    + D. Driving in Optimistan - 大坑
+    + G. Gotta Nudge 'Em All - 大大坑
 
 ### [2016-2017 ACM-ICPC CHINA-Final](http://codeforces.com/gym/101194)
 
@@ -51,6 +60,19 @@
 + **排名：** 103
 
 + **问题：**
+    + F题后缀自动机卡太久了，日常爆炸，字符串选手(@miamiao)要提高板子的熟练度
+    + E题早猜到了是高精度，奈何`Java`不熟，调了很久
+    + 没有做到所有题通读一遍
+    
++ **补题：**
+    + E. Bet - Java高精度
+    + H. Great Cells - 求和策略
+    + C. Mr. Panda and Strips - 集合问题，multiset???
+    + B. Hemi Palindrome - 不会，坑
+    + G. Pandaria - 赛时没读，大坑
+    + I. Cherry Pick - 赛时没读，大坑
+    + J. Mr.Panda and TubeMaster - 赛时没读，大坑
+    + K. Justice Rains From Above - 赛时没读，大坑
 
 ### [2016-2017 ACM-ICPC Southwestern European Regional Programming Contest (SWERC 2016)](http://codeforces.com/gym/101174)
 
@@ -61,6 +83,16 @@
 + **排名：** 66
 
 + **问题：**
+    + 咸鱼队的计算几何真烂
+
++ **补题：**
+    + H. Pascal's Hyper-Pyramids - 记忆化搜索
+    + D. Dinner Bet - 期望dp
+    + E. Passwords - AC自动机+计数
+    + B. Bribing Eve - 变形的计算几何
+    + A. Within Arm's Reach - 计算几何
+    + I. The White Rabbit Pocket Watch - 同余最短路
+    + J. Risky Lottery - 不会，坑
 
 ### [2015-2016 Northwestern European Regional Contest (NWERC 2015)](http://codeforces.com/gym/101485)
 
@@ -71,6 +103,16 @@
 + **排名：** 47
 
 + **问题：**
+    + 读题水平太低
+    + 思维不够，G卡题卡太久了，导致H没时间做
+
++ **补题：**
+    + G. Guessing Camels - 树状数组（思维）
+    + D. Debugging - 记忆化搜索
+    + K. Kitchen Combinatorics - 暴力
+    + H. Hole in One - 计算几何
+    + B. Better Productivity - 赛时没看，坑
+    + F. Flight Plan Evaluation - 赛时没看，坑
 
 ### [2016, Samara University ACM ICPC Quarterfinal Qualification Contest](http://codeforces.com/gym/101149)
 
