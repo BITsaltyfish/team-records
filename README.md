@@ -30,6 +30,27 @@
 
 ## 训练实录
 
+### [2016-2017 ACM-ICPC, Central Europe Regional Contest (CERC 16)](http://codeforces.com/gym/101173)
+
++ **时间：** 2017年10月14日
+
++ **题数：** 5/12
+
++ **排名：** 131
+
++ **问题：**
+    + 简单的计算几何写挂了1小时！！！@miamiao
+    + 没有做到所有题通读一遍
++ **补题：**
+    + B. Bipartite Blanket - 双指针
+    + E. Easy Equation - `Python`高精度
+    + H. Hangar Hurdles - 并查集维护连通性，LCA查询
+    + J. Jazz Journey - 枚举+贪心
+    + L. Lost Logic - 离散数学大模拟？
+    + D. Dancing Disks - 赛时没读
+    + G. Geohash Grid - 赛时没读
+    + I. Invisible Integers - 赛时没读
+
 ### [2016-2017 ACM-ICPC Northwestern European Regional Programming Contest (NWERC 2016)](http://codeforces.com/gym/101170)
 
 + **时间：** 2017年10月8日
