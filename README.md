@@ -30,6 +30,22 @@
 
 ## 训练实录
 
+### [2016-2017 ACM-ICPC, NEERC, Central Subregional Contest](http://codeforces.com/gym/101243)
+
++ **时间：** 2017年10月15日
+
++ **题数：** 10/11
+
++ **排名：** 23
+
++ **问题：**
+    + 大模拟写得少导致最后K题不敢开
++ **补题：**
+    + C. Desktop - 贪心
+    + F. Vitamins - 并查集
+    + B. Hanoi tower - 找规律+高精度
+    + K. Polymorphic code - 大模拟
+
 ### [2016-2017 ACM-ICPC, Central Europe Regional Contest (CERC 16)](http://codeforces.com/gym/101173)
 
 + **时间：** 2017年10月14日
