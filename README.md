@@ -33,6 +33,22 @@
 
 ## 训练实录
 
+### [CCPC 2016-2017, Finals](http://codeforces.com/gym/101350)
+
++ **时间：** 2017年10月22日
+
++ **题数：** 6/11
+
++ **排名：** 77
+
++ **问题：**
+
++ **补题：**
+    + E. Problem Buyer - 贪心
+    + F. Periodical Cicadas - 同余
+    + H. Engineer Assignment - 状压
+    + K. Lazors - ???
+
 ### [2016-2017 ACM-ICPC, NEERC, Central Subregional Contest](http://codeforces.com/gym/101243)
 
 + **时间：** 2017年10月15日
