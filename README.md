@@ -45,6 +45,32 @@
 
 ## 训练实录
 
+### [2016-2017 ACM-ICPC Northeastern European Regional Contest (NEERC 16)](http://codeforces.com/gym/101190)
+
++ **时间：** 2017年11月4日
+
++ **题数：** 4/13
+
++ **排名：** 113（暴跌）
+
++ **问题：**
+
+    + 惨不忍睹，@miamiao一道签到题大模拟写了两小时还挂了，需要提高一下水平！！
+    + 继西安现场赛后K再次看错题？？？黑人问号
+    + 虽然难，但被软件爆踩3题！
+    + J一道模拟题没尽早开出来很爆炸，而且重句题意很难读啊QAQ
+
++ **补题：**
+    + A. Abbreviation - 大模拟
+    + J. Jenga Boom - 物理知识+大模拟
+    + D. Delight for a Cat - 线性规划单纯形+费用流求解
+    + B. Binary Code - 字典树+2-SAT
+    + G. Game on Graph - 图上博弈
+    + K. Kids Designing Kids - 异或结论
+    + L. List of Primes - 爆搜
+    + C. Cactus Construction - 构造，赛时没看
+    + M. Mole Tunnels - 构造
+
 ### [CCPC 2016-2017, Finals](http://codeforces.com/gym/101350)
 
 + **时间：** 2017年10月22日
