@@ -45,6 +45,22 @@
 
 ## 训练实录
 
+### [The 2016 ACM-ICPC Asia Dalian Regional Contest](https://vjudge.net/contest/196828)
+
++ **时间：** 2017年11月5日
+
++ **题数：** 9/11
+
++ **排名：** 12
+
++ **问题：**
+
++ **补题：**
+    + B. Regular Number - 字符串+`bitset`优化
+    + C. Game of Taking Stones - Java+结论 + [Matrix67](http://www.matrix67.com/blog/archives/6784)
+    + E. Aninteresting game - 树状数组结论
+    + K. Guess the number - DP+结论
+
 ### [2016-2017 ACM-ICPC Northeastern European Regional Contest (NEERC 16)](http://codeforces.com/gym/101190)
 
 + **时间：** 2017年11月4日
