@@ -87,7 +87,7 @@
     + C. Cactus Construction - 构造，赛时没看
     + M. Mole Tunnels - 构造
 
-### [CCPC 2016-2017, Finals](http://codeforces.com/gym/101350)
+### [CCPC 2016-2017, Finals](http://codeforces.com/gym/101206)
 
 + **时间：** 2017年10月22日
 
