@@ -51,6 +51,24 @@
 
 ## 训练实录
 
+### [The 2016 ACM-ICPC Asia Shenyang Regional Contest](https://www.jisuanke.com/contest/942)
+
++ **时间：** 2017年11月11日
+
++ **题数：** 7/13
+
++ **排名：** 3
+
++ **问题：**
+
++ **补题：**
+    + C. Empty Convex Polygons - 最大空凸包
+    + H. Legends of the Three Kingdoms - 记忆化搜索（模拟）
+    + D. Defense of the Ancients - 赛时没看
+    + B. Bridge - 赛时没看
+    + E. Five-round Show Hand - 赛时没看
+    + J. New Self-describing Sequence - 赛时没看
+
 ### [The 2016 ACM-ICPC Asia Dalian Regional Contest](https://vjudge.net/contest/196828)
 
 + **时间：** 2017年11月5日
