@@ -62,12 +62,12 @@
 + **问题：**
 
 + **补题：**
-    + C. Empty Convex Polygons - 最大空凸包
-    + H. Legends of the Three Kingdoms - 记忆化搜索（模拟）
-    + D. Defense of the Ancients - 赛时没看
-    + B. Bridge - 赛时没看
-    + E. Five-round Show Hand - 赛时没看
-    + J. New Self-describing Sequence - 赛时没看
+    + C. Empty Convex Polygons - 最大空凸包
+    + H. Legends of the Three Kingdoms - 记忆化搜索（模拟）
+    + D. Defense of the Ancients - 赛时没看
+    + B. Bridge - 赛时没看
+    + E. Five-round Show Hand - 赛时没看
+    + J. New Self-describing Sequence - 赛时没看
 
 ### [The 2016 ACM-ICPC Asia Dalian Regional Contest](https://vjudge.net/contest/196828)
 
