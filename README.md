@@ -51,6 +51,27 @@
 
 ## 训练实录
 
+### [2016-2017 ACM-ICPC Asia-Bangkok Regional Contest](http://codeforces.com/gym/101161)
+
++ **时间：** 2017年11月12日
+
++ **题数：** 6/12
+
++ **排名：** 70
+
++ **问题：**
+    + 树上删边游戏的博弈不会
+    + 可持久化数据结构不熟
+
++ **补题：**
+    + D. Find C - 扩展gcd
+    + E. ACM Tax - 可持久化线段树
+    + F. Dictionary Game - trie树转树上删边
+    + A. WSI Extreme - 带修改的查询
+    + J. Printing Press - 赛时未读
+    + K. Expected Number of Connected Components - 赛时未读
+    
+
 ### [The 2016 ACM-ICPC Asia Shenyang Regional Contest](https://www.jisuanke.com/contest/942)
 
 + **时间：** 2017年11月11日
