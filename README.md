@@ -83,7 +83,7 @@
 + **问题：**
 
 + **补题：**
-    + C. Empty Convex Polygons - [最大空凸包](http://blog.csdn.net/nyroro/article/details/45268767)
+    + C. Empty Convex Polygons - [最大空凸包](http://blog.csdn.net/nyroro/article/details/45268767)
     + H. Legends of the Three Kingdoms - 记忆化搜索（模拟）
     + D. Defense of the Ancients - 赛时没看
     + B. Bridge - 赛时没看
