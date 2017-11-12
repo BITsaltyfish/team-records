@@ -246,8 +246,8 @@
     + E. Passwords - AC自动机+计数
     + B. Bribing Eve - 变形的计算几何
     + A. Within Arm's Reach - 计算几何
-    + I. The White Rabbit Pocket Watch - 同余最短路
-    + J. Risky Lottery - 不会，坑
+    + I. The White Rabbit Pocket Watch - 同余方程
+    + J. Risky Lottery - 不会，坑
 
 ### [2015-2016 Northwestern European Regional Contest (NWERC 2015)](http://codeforces.com/gym/101485)
 
