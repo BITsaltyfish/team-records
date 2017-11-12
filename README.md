@@ -64,12 +64,12 @@
     + 可持久化数据结构不熟
 
 + **补题：**
-    + D. Find C - 扩展gcd
-    + E. ACM Tax - 可持久化线段树
-    + F. Dictionary Game - trie树转树上删边
-    + A. WSI Extreme - 带修改的查询
-    + J. Printing Press - 赛时未读
-    + K. Expected Number of Connected Components - 赛时未读
+    + D. Find C - 扩展gcd
+    + E. ACM Tax - 可持久化线段树
+    + F. Dictionary Game - trie树转树上删边
+    + A. WSI Extreme - 带修改的查询
+    + J. Printing Press - 赛时未读
+    + K. Expected Number of Connected Components - 赛时未读
     
 
 ### [The 2016 ACM-ICPC Asia Shenyang Regional Contest](https://www.jisuanke.com/contest/942)
