@@ -52,11 +52,50 @@
 
 ## 训练实录
 
-### [2016-2017 ACM-ICPC Asia-Bangkok Regional Contest](http://codeforces.com/gym/101161)
+### [2016-2017 ACM-ICPC, Asia Tsukuba Regional Contest](http://codeforces.com/gym/101158)
+
++ **时间：** 2017年11月19日
+
++ **题数：** 5/11
+
++ **排名：** 58
+
++ **问题：**
+    + @miamiao键盘手感极差，需要多加练习
++ **补题：**
+    + D. Hidden Anagrams - 哈希
+    + E. Infallibly Crack Perplexing Cryptarithm - 爆搜 + 剪枝 + 模拟（表达式求值）
+    + F. Three Kingdoms of Bourdelot - 关系闭包转移+贪心
+    + G. Placing Medals on a Binary Tree - 平衡树
+    + I. Skinny Polygon - 扩展欧几里得
+    + J. Cover the Polygon with Your Disk - 圆和多边形交
+    + H. Animal Companion in Maze - 赛时没看
+    + K. Black and White Boxes - 博弈、赛时没读
+
+### [The 2016 ACM-ICPC Asia Ha'erbin Regional Contest](http://codeforces.com/gym/101161)
+
++ **时间：** 2017年11月17日
+
++ **题数：** 6/12
+
++ **排名：** 33
+
++ **问题：**
+
++ **补题：**
+    + B. K-th Number - 二分 + 尺取
+    + G. Debug - Floyed + 最小路径覆盖
+    + I. Cow's Segment - 扩展欧几里得
+    + J. Interview - 条件概率
+    + K. Server - 二分 + DP/最短路
+    + L. Color a Tree - 二分+dfs
+    + M. Gemotry Problem - 随机化计算几何
+
+### [2016-2017 ACM-ICPC Asia-Bangkok Regional Contest](https://vjudge.net/contest/198815)
 
 + **时间：** 2017年11月12日
 
-+ **题数：** 6/12
++ **题数：** 5/12
 
 + **排名：** 70
 
@@ -72,7 +111,6 @@
     + A. WSI Extreme - 带修改的查询
     + J. Printing Press - 赛时未读
     + K. Expected Number of Connected Components - 赛时未读
-    
 
 ### [The 2016 ACM-ICPC Asia Shenyang Regional Contest](https://www.jisuanke.com/contest/942)
 
