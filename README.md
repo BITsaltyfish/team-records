@@ -61,7 +61,7 @@
 + **排名：** 58
 
 + **问题：**
-    + @miamiao键盘手感极差，需要多加练习
+    + @miamiao键盘手感极差，需要多加练习
 + **补题：**
     + D. Hidden Anagrams - 哈希
     + E. Infallibly Crack Perplexing Cryptarithm - 爆搜 + 剪枝 + 模拟（表达式求值）
